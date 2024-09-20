@@ -1,0 +1,12 @@
+streamlit
+openai-whisper
+PyPDF2
+langchain
+python-dotenv
+moviepy
+faiss-cpu
+langchain-groq
+langchain_community
+moviepy
+pytube
+openai
